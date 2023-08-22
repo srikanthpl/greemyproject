@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+.header{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    border-style: solid;
+    padding: 3px;
+    padding-bottom: 8px;
+    margin-top: 5px;
+    border-top-width: 0.5px;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-color: rgb(79, 75, 75);
+    
+    
+    
+}
+
+
+.upper{
+    justify-content: space-between;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 5px;
+}
+.content{
+    background-color: aquamarine;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    height: 300px;
+    padding-left: 3%;
+    
+}
+
+input{
+    width: 150px;
+    height: 35px;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+}
+.side{
+    position: relative;
+    bottom: 203px;
+    right: 100px;
+    float: right;
+    border: solid;
+    border-color:white;
+    border-width: 2px;
+
+   
+}
+.box{
+    width: 220px;
+    height: 220px;
+    border-style: solid;
+    border-color:rgb(0, 0, 0);
+    border-width: 2px;
+    display:inline-flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 70px;
+    text-align: center;
+    
+     
+
+}
+.about{
+  
+    text-align: center;
+    background-color: white;
+}
+.product{
+    background-color: aquamarine;
+    width: 100%;
+    text-align: center;
+   
+}
+.box1{
+    width: 250px;
+    height: 490px;
+    text-align: center;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 85px;
+    position: relative;
+}
+.des{
+    position: relative;
+    bottom: 110px;
+
+
+}
+.best{
+    width: 250;
+    height: 340px;
+    display:inline-flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+    justify-content: center;
+
+}
+.rating{
+    width: 100%;
+    height: 300px;
+    background-color: aquamarine;
+    display:flex;
+    flex-wrap: wrap;
+    position: relative;
+    padding-top: 40px;
+   
+
+   
+     
+   
+}
+.ratimg{
+    width: 180px;
+    height: 250px;
+    position: relative;
+    bottom: 60px;
+   
+   
+}
+.tex{
+    text-align: left;
+    padding-left: 80px;
+    padding-top: 30px;
+    font-size: larger;
+
+}
+
+.sea{
+    background-color: white;
+    width: 80%;
+    border: solid 2px black;
+}
+ .news{
+    text-align: center;
+ }
+ .sub{
+    color: white;
+ }
+  
+ .footer{
+    width: 100%;
+    height: 250px;
+    background-color: aquamarine;
+    padding-top: 70px;
+    padding-left: 20px;
+ }
+ .icon{
+    width:120px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+ }
+
